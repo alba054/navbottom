@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">navbottom</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="posters">
+        <item>@drawable/cowboy_bebop</item>
+        <item>@drawable/go_toubun</item>
+        <item>@drawable/hyouka</item>
+        <item>@drawable/oregairu</item>
+        <item>@drawable/fullmetal_alchemist</item>
+        <item>@drawable/naruto_shippuden</item>
+        <item>@drawable/steins_gate</item>
+        <item>@drawable/slime</item>
+        <item>@drawable/gintama</item>
+        <item>@drawable/fate_zero</item>
+    </array>
+    <string-array name="titles">
+        <item>Cowboy Bebop</item>
+        <item>Go Toubun no Hanayome</item>
+        <item>Hyouka</item>
+        <item>Oregairu</item>
+        <item>Fullmetal Alchemist</item>
+        <item>Naruto Shippuden</item>
+        <item>Steins Gate</item>
+        <item>Tensei Shitara Slime Datta Ken</item>
+        <item>Gintama</item>
+        <item>Fate Zero</item>
+    </string-array>
+    <string-array name="genres">
+        <item>Action, Adventure, Comedy, Drama, Space</item>
+        <item>Harem, Comedy, School, Romance Shounen</item>
+        <item>Mystery, School, Slice of Life</item>
+        <item>Slice of Life, Comedy, Drama, Romance, School</item>
+        <item>Action, Magic, Military, Drama, Comedy, Shounen, Fantasy, Adventure</item>
+        <item>Action, Adventure, Comedy, Super Power, Martial Arts, Shounen</item>
+        <item>Sci-Fi, Psychological, Drama, Thriller</item>
+        <item>Action, Adventure, Comedy, Demons, Magic, Fantasy</item>
+        <item>Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen</item>
+        <item>Action, Supernatural, Magic, Fantasy</item>
+    </string-array>
+    <string-array name="synopsis">
+        <item>In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as Cowboys. The ragtag team aboard the spaceship Bebop are two such individuals.Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each members dark and mysterious past little by little.Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.</item>
+        <item>In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as Cowboys. The ragtag team aboard the spaceship Bebop are two such individuals.Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each members dark and mysterious past little by little.Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.</item>
+        <item>In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as Cowboys. The ragtag team aboard the spaceship Bebop are two such individuals.Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each members dark and mysterious past little by little.Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.</item>
+        <item>In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as Cowboys. The ragtag team aboard the spaceship Bebop are two such individuals.Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each members dark and mysterious past little by little.Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.</item>
+        <item>In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as Cowboys. The ragtag team aboard the spaceship Bebop are two such individuals.Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each members dark and mysterious past little by little.Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.</item>
+        <item>In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as Cowboys. The ragtag team aboard the spaceship Bebop are two such individuals.Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each members dark and mysterious past little by little.Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.</item>
+        <item>In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as Cowboys. The ragtag team aboard the spaceship Bebop are two such individuals.Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each members dark and mysterious past little by little.Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.</item>
+        <item>In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as Cowboys. The ragtag team aboard the spaceship Bebop are two such individuals.Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each members dark and mysterious past little by little.Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.</item>
+        <item>In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as Cowboys. The ragtag team aboard the spaceship Bebop are two such individuals.Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each members dark and mysterious past little by little.Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.</item>
+        <item>In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as Cowboys. The ragtag team aboard the spaceship Bebop are two such individuals.Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each members dark and mysterious past little by little.Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.</item>
+    </string-array>
+    <string-array name="charNames">
+        <item>Monkey D Luffy</item>
+        <item>Monkey D Luffy</item>
+        <item>Monkey D Luffy</item>
+        <item>Monkey D Luffy</item>
+        <item>Monkey D Luffy</item>
+        <item>Monkey D Luffy</item>
+        <item>Monkey D Luffy</item>
+        <item>Monkey D Luffy</item>
+        <item>Monkey D Luffy</item>
+        <item>Monkey D Luffy</item>
+    </string-array>
+    <string-array name="charPosters">
+        <item>@drawable/luffy_char</item>
+        <item>@drawable/levi_char</item>
+        <item>@drawable/luffy_char</item>
+        <item>@drawable/levi_char</item>
+        <item>@drawable/luffy_char</item>
+        <item>@drawable/levi_char</item>
+        <item>@drawable/luffy_char</item>
+        <item>@drawable/levi_char</item>
+        <item>@drawable/luffy_char</item>
+        <item>@drawable/levi_char</item>
+    </string-array>
+</resources>
